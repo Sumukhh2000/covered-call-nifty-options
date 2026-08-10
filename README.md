@@ -123,28 +123,6 @@ The workflow reflects the methodology documented in your report, including GBM, 
 
 ---
 
-## Step 3 — Add a `.gitignore`
-
-This is worth doing because it makes the repository look more professional.
-
-Create a new file:
-
-```text
-.gitignore
-
-## Tools & Technologies
-
-- Microsoft Excel
-- Black-Scholes Model
-- Option Greeks
-- Geometric Brownian Motion
-- Monte Carlo Simulation
-- Value at Risk
-- Regression Analysis
-- Historical Back-testing
-- NIFTY 50 Market Data
-
----
 
 ## Limitations
 
