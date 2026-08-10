@@ -118,6 +118,20 @@ Risk-Return Evaluation
 
 ---
 
+
+The workflow reflects the methodology documented in your report, including GBM, Black-Scholes, Greeks, Monte Carlo/VaR, macroeconomic analysis, strategy formulation and back-testing. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+
+---
+
+## Step 3 — Add a `.gitignore`
+
+This is worth doing because it makes the repository look more professional.
+
+Create a new file:
+
+```text
+.gitignore
+
 ## Tools & Technologies
 
 - Microsoft Excel
