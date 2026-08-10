@@ -78,6 +78,41 @@ The report found that the covered call strategy delivered superior risk-adjusted
 
 ## Project Files
 
+| File | Description |
+|---|---|
+| [Internship Report](Covered_Call_NIFTY_Options_Report.pdf) | Detailed report covering methodology, analysis, strategy formulation and back-testing |
+| [Excel Analysis](Covered_Call_NIFTY_Options.xlsx) | Excel-based calculations, simulations, option pricing and quantitative analysis |
+
+---
+
+## Project Workflow
+
+```text
+NIFTY Market Data
+        ↓
+Historical Return & Volatility Analysis
+        ↓
+Geometric Brownian Motion
+        ↓
+Black-Scholes Option Pricing
+        ↓
+Option Greeks
+        ↓
+Probability & Monte Carlo Analysis
+        ↓
+VaR & Tail-Risk Analysis
+        ↓
+Macroeconomic Regression
+        ↓
+Covered Call Strategy Formulation
+        ↓
+Historical Back-Testing
+        ↓
+Risk-Return Evaluation
+---
+
+## Project Files
+
 - [Internship Report](Covered_Call_NIFTY_Options_Report.pdf)
 - [Excel Analysis](Covered_Call_NIFTY_Options.xlsx)
 
